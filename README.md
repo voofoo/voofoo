@@ -1,7 +1,7 @@
 ### ohai there, my name is @voofoo :trollface:
 
 - :trident: mountains, the Internet, a nice cup of espresso & backpacking are gold to me
-- :blush: I am learning how to code and currenly I'm experimenting with web development & html/css & games with Python
+- :blush: I am learning how to code and currenly I'm experimenting on web development with html/css & games with Python
 - :spades: I am also learning C because I still want to be relevant in 4 years
 - :mushroom: I’m looking to collaborate on open source bitcoin projects
 - :speaker: if you want to get me started, ask me about ₿itcoin
